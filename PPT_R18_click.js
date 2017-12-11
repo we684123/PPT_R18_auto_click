@@ -8,6 +8,7 @@
 // ==/UserScript==
 //Github - https://github.com/we684123/PPT_R18_auto_click
 
+//test
 (function() {
     $("button.btn-big").click();
 })();
