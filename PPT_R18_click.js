@@ -10,5 +10,5 @@
 
 //test
 (function() {
-    $("button.btn-big").click();
+    $("button.btn-big").eq(0).click();
 })();
